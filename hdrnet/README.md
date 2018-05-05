@@ -5,4 +5,4 @@ Performed a few changes in the tensorflow code to make the build work.
 2. For errors related to "nync.h", change the file location to "external/nsync/public/nsync.h"
 
 ### Current status:
-*py.test test* still failing
+* *py.test test* command still failing
